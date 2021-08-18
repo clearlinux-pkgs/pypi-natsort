@@ -1,5 +1,5 @@
 PKG_NAME := natsort
-URL = https://files.pythonhosted.org/packages/b3/60/684d437b29c04bb08b5a145c94babbc802f551a3cd392680b1a2cd0104bb/natsort-7.0.1.tar.gz
+URL = https://files.pythonhosted.org/packages/06/73/132e1986f7d37826e39825097e09f2c86b1339609926210ebdaec74a3b72/natsort-7.1.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
