@@ -15,11 +15,11 @@ Requires: pypi-natsort-license = %{version}-%{release}
 Requires: pypi-natsort-python = %{version}-%{release}
 Requires: pypi-natsort-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 natsort
