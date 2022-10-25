@@ -4,7 +4,7 @@
 #
 Name     : pypi-natsort
 Version  : 8.2.0
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/9a/81/50a71d8ac87727ee6213207e30502560ffcf3b72a06b45fbeaa1ed48bec6/natsort-8.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9a/81/50a71d8ac87727ee6213207e30502560ffcf3b72a06b45fbeaa1ed48bec6/natsort-8.2.0.tar.gz
 Summary  : Simple yet flexible natural sorting in Python.
