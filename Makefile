@@ -1,5 +1,5 @@
 PKG_NAME := pypi-natsort
-URL = https://files.pythonhosted.org/packages/47/2a/bf13bfc1a51b6df2f823909c6d4f674a256e3f29401825e1d56ca2a95dc9/natsort-8.3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/e2/a9/a0c57aee75f77794adaf35322f8b6404cbd0f89ad45c87197a937764b7d0/natsort-8.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
